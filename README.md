@@ -9,7 +9,7 @@ This course provides an introduction to data science, AI, and applied economics 
 
 ### Paper Presentations
 
-Please choose a paper and **sign up** for a presentation slot in the [presentation schedule](https://docs.google.com/spreadsheets/d/1BE7AYdNygbMA1QcU8weLlh-wg-jnq0QJ04GFo6yW8xw/edit?usp=sharing) with your group **by March 13th** (see the corresponding section of the [syllabus](https://docs.google.com/spreadsheets/d/1LOqYHU45xo_V5uKVIG8Uh4UZGLpuu7uVp1RViAwdxMI/edit?gid=0#gid=0)). If you would like us to match you into a group with somebody else, please also let us know by the same date.
+Please choose a paper and **sign up** for a presentation slot in the [presentation schedule](https://docs.google.com/spreadsheets/d/1LOqYHU45xo_V5uKVIG8Uh4UZGLpuu7uVp1RViAwdxMI/edit?usp=sharing) with your group **by March 13th** (see the corresponding section of the [syllabus](https://docs.google.com/spreadsheets/d/1LOqYHU45xo_V5uKVIG8Uh4UZGLpuu7uVp1RViAwdxMI/edit?gid=0#gid=0)). If you would like us to match you into a group with somebody else, please also let us know by the same date.
 
 Upload your paper presentation [here](https://www.polybox.ethz.ch/index.php/s/Gx6AVkOmZpL3WlZ) by **6 June** using the naming scheme `paper_group_[##]_presentation.[pdf/pptx/key/txt]
 `.
