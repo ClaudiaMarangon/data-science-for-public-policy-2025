@@ -21,8 +21,8 @@ The final exam will be held in class on **May 22nd**.
 ### Course Projects
 
 Please choose a project and register it with us **by April 17th** [here](https://docs.google.com/spreadsheets/d/1bridX5ac5SodEJNFDso5QZQ1yDhovto4iXeF7ck8b2M/edit?gid=0#gid=0) (be sure to go to the course project sheet, feel free to open an new [discussion](https://github.com/ClaudiaMarangon/data-science-for-public-policy-2025/discussions) here to pitch your course project idea to others). 
-* Projects presentations – 4 minutes per group – are on **14 May**.
-  * Upload [here](https://www.polybox.ethz.ch/index.php/s/3ryQNwjLO2Zf9Pg) by **10 am** the same day using the naming scheme `project_group_[##]_presentation.[pdf/pptx/key/txt]`. We will prepare a laptop with all the presentations so that we waste little time between groups.
+* Videos with projects presentations – 10 minutes per group – are due by **May 30th**.
+  * Upload your videos [here](https://www.polybox.ethz.ch/index.php/s/3ryQNwjLO2Zf9Pg) using the naming scheme `project_group_[##]_presentation`. You can also upload a pdf file containing a YouTube link to your video.
   * Potential structure:
     * What are you trying to do and why is it relevant?
     * How are you doing it (methods)?
