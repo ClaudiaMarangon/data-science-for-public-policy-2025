@@ -21,7 +21,7 @@ The final exam will be held in class on **May 22nd**.
 ### Course Projects
 
 Please choose a project and register it with us **by April 9th** [here](https://docs.google.com/spreadsheets/d/1bridX5ac5SodEJNFDso5QZQ1yDhovto4iXeF7ck8b2M/edit?gid=0#gid=0) (be sure to go to the course project sheet, feel free to open an new [discussion](https://github.com/ClaudiaMarangon/data-science-for-public-policy-2025/discussions) here to pitch your course project idea to others). 
-* Submit an outline of 1/2 pages by **April 17th** [here](https://polybox.ethz.ch/index.php/s/DC7C69Jpf7J3cYC).
+* Submit an outline of 1/2 pages by **April 17th** [here](https://polybox.ethz.ch/index.php/s/DC7C69Jpf7J3cYC), using the naming scheme `project_group_[##]_outline`.
 * Videos with projects presentations – 10 minutes per group – are due by **May 30th**.
   * Upload your videos [here](https://www.polybox.ethz.ch/index.php/s/3ryQNwjLO2Zf9Pg) using the naming scheme `project_group_[##]_presentation`. You can also upload a pdf file containing a YouTube link to your video.
   * Potential structure:
@@ -29,7 +29,7 @@ Please choose a project and register it with us **by April 9th** [here](https://
     * How are you doing it (methods)?
     * What are your preliminary results?
     * What are your pain points?
-* By **July 20th** you will have to hand in your paper/web app including the replication package. Please use [this link](https://www.polybox.ethz.ch/index.php/s/bP3yZytix7rxQBQ) to submit your project using the naming scheme `project_group_[#]_[app/paper].zip`.
+* By **July 20th** you will have to hand in your paper including the replication package. Please use [this link](https://www.polybox.ethz.ch/index.php/s/bP3yZytix7rxQBQ) to submit your project using the naming scheme `project_group_[#]_[app/paper].zip`.
 
 ## Tentative Schedule
 | #  | Date        | Lecture                                                        | Lecturer           |
